@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CannotAttack", "CannotAttack\CannotAttack.csproj", "{D695890B-97E1-4C92-A142-A0EDF8171198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CannonAttackTest", "CannonAttackTest\CannonAttackTest.csproj", "{23ABA974-4A12-4D04-92BF-B2F6CF3EB7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D695890B-97E1-4C92-A142-A0EDF8171198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D695890B-97E1-4C92-A142-A0EDF8171198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D695890B-97E1-4C92-A142-A0EDF8171198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D695890B-97E1-4C92-A142-A0EDF8171198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23ABA974-4A12-4D04-92BF-B2F6CF3EB7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ABA974-4A12-4D04-92BF-B2F6CF3EB7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ABA974-4A12-4D04-92BF-B2F6CF3EB7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23ABA974-4A12-4D04-92BF-B2F6CF3EB7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5670E22C-94F9-4B61-A105-3F23ECAD3963}
+	EndGlobalSection
+EndGlobal
